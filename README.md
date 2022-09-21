@@ -1,6 +1,6 @@
 # LC-2K (Little Computer 2000)
 ### About
-This implementation of the LC-2K was created by Tyler Hooper for Computer Architecture in Spring 2021
+An implementation of the LC-2K (Assembler and Simulator)
 ### Assembler
 The assembler program is located at [assembler.c](assembler.c). 
 
